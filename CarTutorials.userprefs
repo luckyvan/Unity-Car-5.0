@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Shaders\GlassBuilding.shader">
+    <Files>
+      <File FileName="Assets\Scripts\CSharpScripts\MeshCombineUtility.cs" Line="27" Column="55" />
+      <File FileName="Assets\Scripts\JavaScripts\PerformanceTweak.js" Line="190" Column="1" />
+      <File FileName="Assets\Shaders\GlassBuilding.shader" Line="42" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
